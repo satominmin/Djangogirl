@@ -1,0 +1,2 @@
+# Djangogirl
+Djangoで作ったブログ
